@@ -1,8 +1,8 @@
 import React from 'react';
-import Header from '../components/Header';
+import Header from '../components/header';
 import ProfileCard from '../components/ProfileCard';
 import ProjectList from '../components/ProjectList';
-import Footer from '../components/Footer';
+import Footer from '../components/footer';
 
 const Home: React.FC = () => (
   <div className="min-h-screen flex flex-col justify-between">
